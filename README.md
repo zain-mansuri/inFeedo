@@ -7,7 +7,10 @@
 #### SqlLite3 (MySql)
 
 ## How to Start This in Local Machine ???? 🤔
-```npm start``` 
+
+1. ```npm install```
+
+2. ```npm start```  this will start in dev environment 
 
 This will install dependency and start server in 3001.
 
